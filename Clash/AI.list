@@ -4,8 +4,15 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,ai.com
+
+DOMAIN-SUFFIX,bing.com
+
 DOMAIN-KEYWORD,bard
 DOMAIN-KEYWORD,gemini
+
+DOMAIN-KEYWORD,apple-relay
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+
 
