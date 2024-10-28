@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,ai.com
 
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+
 DOMAIN-SUFFIX,bing.com
 
 DOMAIN-KEYWORD,bard
