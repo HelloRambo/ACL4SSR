@@ -19,4 +19,10 @@ DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,gork.com
+
+DOMAIN-KEYWORD,dia
+
 
