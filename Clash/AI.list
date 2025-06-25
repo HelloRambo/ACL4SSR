@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,bing.com
 
 DOMAIN-KEYWORD,bard
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,notebooklm
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
